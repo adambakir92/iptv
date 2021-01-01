@@ -1,23 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/23/LOGO_BigBro.png", 26 
 https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NeOM04y.png", קשת
-http://192.99.18.85:1935/live/channel22/chunklist_w1365968436.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NeOM04y.png", קשת
-https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index_850.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wkGjZNt.png", רשת 
-http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wkGjZNt.png", רשת גיבוי 
-http://besttv10.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P0ql4kE.png", עשר
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,4800/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P0ql4kE.png", עשר גיבוי
-http://nana10-hdl-il-sw.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/chunklist_b2400000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uOphXzA.png", ערוץ 20 
-https://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1oopSwR.jpg", 24 ערוץ 
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1oopSwR.jpg", 24 ערוץ גיבוי
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xaLpvSD.png", ערוץ הכנסת 
-http://w3.013.gostreaming.tv:1935/Knesset/myStream/chunklist_w2061966814.m3u8
+#EXTINF:-1 tvg-logo="https://www.hot.net.il/UploadedImages//05_2018/17595_25727_hot2_510x147.jpg", האח הגדול
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
